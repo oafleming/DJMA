@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- Header Section -->
-    <h2>DJ "G" Music Archive</h2>
+    <h2>DJ "G" Modern Music Archive</h2>
 
      <!-- Navigation Links -->
      <ul>

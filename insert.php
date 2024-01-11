@@ -53,7 +53,7 @@ $conn->close();
         <!-- Your form fields here... -->
 
         <!-- Input Fields for Artist, Title, Year, Label, Genre, Style, Format -->
-        <label for="artist">Artist:</label>
+        <label for="artist">Artists:</label>
         <input type="text" name="artist" required>
 
         <label for="title">Title:</label>
